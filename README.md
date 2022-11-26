@@ -1,4 +1,4 @@
-# 12.7.3-HW-03-
+# 12.7.3 (HW-03)
 
 rate = list(per_cent.values())
 money = int(input("Сумма для депозита: "))
